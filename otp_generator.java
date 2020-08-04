@@ -8,7 +8,7 @@ public class otp_generator
 		System.out.println(geek_Password(length)); 
 	} 
 
-	static char[] geek_Password(int len) 
+	static char[] Ck_Password(int len) 
 	{ 
 		System.out.print("New OTP generator is : "); 
 		String Capital_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; 
